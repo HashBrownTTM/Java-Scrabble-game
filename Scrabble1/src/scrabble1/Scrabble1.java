@@ -7,7 +7,7 @@ package scrabble1;
 
 /**
  *
- * @author 19005489
+ * @author HashBrownTTM
  */
 import java.util.Scanner;
 public class Scrabble1 {
