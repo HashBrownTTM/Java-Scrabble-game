@@ -1,4 +1,4 @@
-# Java-Scrabble-game
+# Java Scrabble Game
 You are firstly required to prompt the user to enter in a one to start the game. If the users decide
 to play the game, prompt for the two player names. 
 
